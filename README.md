@@ -8,9 +8,3 @@ Se autoeduca con libros y vídeos de los mejores closers.
 
 Construido 100% no-code con **Dify.ai** + RAG.
 
-Próximos pasos:
-- MVP en Dify con conocimiento base
-- Integración WhatsApp + Stripe
-- Postulación a Moonshot 2026
-
-¡Bienvenido al futuro de las ventas!
